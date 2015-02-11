@@ -1,3 +1,8 @@
+/*
+AmLogic S805 Datasheed URL:
+http://dn.odroid.com/S805/Datasheet/S805_Datasheet%20V0.8%2020150126.pdf
+*/
+
 /*      Pin Mux Registers Base+Offset*/
 #define PERIPHS_PIN_MUX_0 S805_PERI_BASE+0x202C
 #define PERIPHS_PIN_MUX_1 S805_PERI_BASE+0x202D
